@@ -1,8 +1,8 @@
 {
-  "name": "demoNode",
+  "name": "suJseCo",
   "version": "0.0.0",
   "description": "Demo project",
-  "main": "glow.php",
+  "main": ".devs/index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
