@@ -27,4 +27,5 @@ break;
 require('.default.php');
 }
 require('.footer.php');
+
 ?>
